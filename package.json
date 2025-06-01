@@ -1,0 +1,17 @@
+{
+  "name": "yt-backend-project",
+  "version": "1.0.0",
+  "description": "This is a complete youtube backend project by Vatsal Gajjar (Backend+Devops Enthusiast)",
+  "keywords": [
+    "Backend",
+    "Javascript",
+    "Youtube"
+  ],
+  "license": "ISC",
+  "author": "gajjarvatsall",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
