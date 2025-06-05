@@ -9,3 +9,9 @@ const asyncHandler = (requestHandler) => {
 };
 
 export { asyncHandler };
+
+
+// You’re not calling requestHandler immediately —
+// You’re just returning a function that Express will call later,
+// and inside that function, you call requestHandler(req, res, next).
+
